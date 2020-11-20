@@ -7,5 +7,4 @@ def snake_it_up(string)
     string
   end
 end
- snake_it_up("surprise")
- 
+ snake_it_up("urprise")
